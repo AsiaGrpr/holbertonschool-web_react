@@ -1,4 +1,5 @@
 import $ from 'jquery';
+
 import './header.css';
 
 $('body').append('<div id="logo"></div>');
