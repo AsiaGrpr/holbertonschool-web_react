@@ -45,3 +45,70 @@ The Webpack project showcases the configuration and usage of Webpack for bundlin
 1. Learning how to use Webpack with a config file
 2. Adding CSS & Images
 3. Dev servers, modules, and tree shaking
+
+## React Intro
+
+How to create a basic Javascript application using React
+How to use the package create-react-app to start developing quickly with React
+
+### Tasks
+
+0. Basic application
+1. Embedding expressions, functions
+2. Modify the App
+3. Modify the Notifications
+4. Create basic tests with four tests
+5. Install Enzyme
+6. Create React tests
+7. Deploy to a GitHub page
+8. Create a project using Webpack
+9. Install Babel
+10. Reorganize the files
+11. Testing
+
+## React props
+
+How to create basic React components using functions
+How to reuse components
+
+### Tasks
+
+0. Basic components
+1. Write the tests for each component
+2. Split the Notifications component
+3. Checking the application using the React extension
+4. Props types & Default props & Shapes
+5. Shapes, Loops, and Keys
+
+## React component
+
+When to use a Class or a function to create a component
+The lifecycle of a Class component
+
+### Tasks
+
+0. Commence with class components
+1. Lifecycles
+2. Handling Events
+3. Reusable comments & specialization
+4. Specialization
+5. Use the new components
+6. Test the new components
+7. Create WithLogging HOC
+8. Write a test for the HOC
+9. Declare a pure component
+10. Make your own pure component
+11. Add a test
+
+## React inline styling
+
+The differences between using a CSS file and inline styling
+How to use a CSS-in-JS tool like Aphrodite
+
+### Tasks
+
+0. Inline styling
+1. install Aphrodite
+2. Conditionally applying style
+3. Responsive design
+4. Animation
