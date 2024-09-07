@@ -9,7 +9,7 @@ In this repository, there be saved different projects and exercises made during 
 ---
 
 
-**[Typescript](README.md#typescript) - [Webpack](README.md#webpack)**
+**[Typescript](README.md#typescript) - [Webpack](README.md#webpack) - [React Intro](README.md#react-intro) - [React props](README.md#react-props) - [React component](README.md#react-component) - [React inline styling](README.md#react-inline-styling)**
 
 ---
 
