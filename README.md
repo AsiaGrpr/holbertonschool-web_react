@@ -9,7 +9,7 @@ In this repository, there be saved different projects and exercises made during 
 ---
 
 
-**[Typescript](README.md#typescript) - [Webpack](README.md#webpack) - [React Intro](README.md#react-intro) - [React props](README.md#react-props) - [React component](README.md#react-component) - [React inline styling](README.md#react-inline-styling)**
+**[Typescript](README.md#typescript) - [Webpack](README.md#webpack) - [React Intro](README.md#react-intro) - [React props](README.md#react-props) - [React component](README.md#react-component) - [React inline styling](README.md#react-inline-styling) - [React Redux action creator+normalizr](README.md#react-redux-action-creatornormalizr)**
 
 ---
 
@@ -112,3 +112,19 @@ How to use a CSS-in-JS tool like Aphrodite
 2. Conditionally applying style
 3. Responsive design
 4. Animation
+
+## React Redux action creator+normalizr
+
+Normalizr’s purpose and how to use it
+schemas and normalization of nested JSON
+
+### Tasks
+
+0. Read data from a JSON
+1. Normalize a nested JSON
+2. Filter a normalized Schema
+3. Create actions for the course list
+4. Create actions for the UI
+5. Create actions for the notification list
+6. Bound the actions
+7. Async Action Creators
